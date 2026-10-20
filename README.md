@@ -7,7 +7,7 @@ built on measured NYC Mesh link data (OpenMesh). It answers a planning question:
 backup capacity should be reserved, and which switching policy keeps the most users at minimum
 service during and after a storm?**
 
-> Quick guide (中文): [GUIDE_zh.md](GUIDE_zh.md).
+> Quick guide : [GUIDE.md](GUIDE.md).
 >
 > This folder holds **code only**. No dataset is included (size limits and Weather Underground
 > terms forbid redistribution). See [Data](#data) for what to download and where to put it.
