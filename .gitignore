@@ -1,0 +1,22 @@
+# data are never committed (size limits; Weather Underground terms forbid redistribution)
+*.nc
+*.csv
+*.csv.gz
+*.pkl
+*.zip
+*.tar.gz
+
+# generated output
+*.png
+04_Results_Analysis/
+02_Data_Processed/
+06_Datasets_Raw_Adopted/
+
+# Python / MATLAB / OS clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.asv
+*.mat
+.DS_Store
+Thumbs.db
